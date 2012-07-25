@@ -1,0 +1,11 @@
+c493df5ff5cf3d0676986df7bb2ce97d *DESCRIPTION
+df390c53434517b304ac5db487184641 *NAMESPACE
+620a210dd9f8f5262a5f97cb28cea497 *R/get.recon.1.R
+6975234b107a19a7ae0a4602e40d9a6f *R/recon.score.R
+7f8c7a98bdda73bd2593095c41fc2d2e *R/requiprobable.R
+fa9c638a423f4ddd973719496e02c612 *R/rgenetree.R
+4dce7d170c59606275c9e5ed5319db77 *man/HyPhy-package.Rd
+594ee907a4564f867946b5370f8277e5 *man/get.recon.1.Rd
+49eb5736fa177a11a805a2e2c702de72 *man/recon.score.Rd
+e990bfd25ee52a5a2fe6d8b1a881edfc *man/requiprobable.Rd
+cb803987b4f9f69ccf551ec73058db57 *man/rgenetree.Rd
